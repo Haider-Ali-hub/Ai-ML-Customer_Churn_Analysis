@@ -19,8 +19,10 @@ High Charges & Services: Customers paying higher monthly charges ($70–$100+) a
 Payment Method Risk: Customers using Electronic check churn at a rate of ~45%, compared to ~15–16% for automated payment methods.
 
 Setup
+
 Open the Kaggle notebook or run locally:
 pip install pandas numpy matplotlib seaborn
 
 Bash
+
 pip install pandas numpy matplotlib seaborn
