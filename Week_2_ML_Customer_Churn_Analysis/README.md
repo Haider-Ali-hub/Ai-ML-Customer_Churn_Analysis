@@ -94,8 +94,6 @@ The top features according to Random Forest permutation importance were:
 3. **Contract_Two year — 0.0164**
 
 Permutation importance measures the change in test-set performance when a feature's values are randomly shuffled.
-<img width="996" height="514" alt="image" src="https://github.com/user-attachments/assets/ff8a02a5-1aa2-4052-8c8e-b2319e46a153" />
-
 
 ## 🛠️ Feature Engineering
 
